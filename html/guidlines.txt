@@ -1,0 +1,12 @@
+<ul> = unordered list
+<ol> = ordered list 
+<img src=""/> = image 
+<br/> = new line
+
+for a table
+<table> = start of table
+<tr> = start of row
+<td> = row data
+<th> = table header
+
+<a href="" target="_blank"> = href is the website link.  target is to open in a new tab 
